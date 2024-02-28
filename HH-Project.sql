@@ -69,3 +69,5 @@ order by vacancies_amount desc
 limit 10;
 
 
+
+
